@@ -18,24 +18,21 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Sam studies interactions between turbulence, combustion and associated thermal effects using adaptive meshing to run direct numerical simulations on HPC resources.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Turbulence
+- Combustion
+- Reacting Flows
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Mechanical Engineering
+    institution: University of Colorado, Boulder
+    year: 2020 (Expected)
+  - course: BA in Physics
+    institution: Carleton College
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,23 +42,14 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "michael.a.meehan@colorado.edu"
+email: "samuel.whitman@colorado.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -69,10 +57,4 @@ user_groups:
 - Researchers
 ---
 
-Mike is a grad student.
-
-Yo.
-
-Yo.
-
-Yo.
+Sam Whitman completed an undergraduate degree in physics at Carleton College in 2011 with a focus on turbulence. Afterwards, he worked in the healthcare software industry for four years before returning to the University of Colorado, Boulder, to pursue a PhD in turbulence with the TESLa group. 
